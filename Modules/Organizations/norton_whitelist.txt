@@ -1,3 +1,0 @@
-@@|shasta-rrs.norton.com^$important
-@@|tool-avpg.crsi.norton.com^$important
-@@|vss.norton.com^$important

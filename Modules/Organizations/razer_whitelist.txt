@@ -1,3 +1,0 @@
-@@|avatar.razerzone.com^$important
-@@|axon-assets-cdn.razerzone.com^$important
-@@|deals-assets-cdn.razerzone.com^$important
